@@ -22,4 +22,3 @@ def Hill_pattern(n):
 
 a = int(input("Enter your number: "))
 Hill_pattern(a)
-
